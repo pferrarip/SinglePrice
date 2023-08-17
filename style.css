@@ -154,7 +154,7 @@ button {
 
 @media(min-width:1920px) {
     .card {
-        transform: scale(1.7);
+        transform: scale(1.4);
     }
 }
 
